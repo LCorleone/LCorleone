@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">Hi 👋 I'm LCorleone 🦊</h3>
+<h3 align="center">Hi 👋 I'm LCorleone 😄 </h3>
 
 <p align="center">
     <a title="Github Total Stars" target="_blank" href="https://github.com/LCorleone">
-        <img src="https://img.shields.io/github/stars/blinkfox.svg?logo=star&label=Total%20Stars&color=success" />
+        <img src="https://img.shields.io/github/stars/LCorleone.svg?logo=star&label=Total%20Stars&color=success" />
     </a>
     <a title="Github Followers" target="_blank" href="https://github.com/LCorleone">
-        <img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dblinkfox&color=blue&logo=github&longCache=true" />
+        <img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DLCorleone&color=blue&logo=github&longCache=true" />
     </a>
     <a title="My Blog Site" target="_blank" href="http://luludashun.com.cn/">
         <img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%20(blog)-luludashun.com.cn-orange" />
