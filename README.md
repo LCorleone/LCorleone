@@ -44,27 +44,12 @@ July Lu (@LCorleone)
 
 ---
 
-### ⭐ Featured Projects
+### ⭐ Featured Project
 
-[**A-Simple-Chinese-License-Plate-Generator-and-Recognition-Framework**](https://github.com/LCorleone/A-Simple-Chinese-License-Plate-Generator-and-Recognition-Framework) · ⭐ 150 · `Python`
+[**one-api**](https://github.com/LCorleone/one-api) · `Go`
 
-> End-to-end framework for generating and recognizing Chinese license plates.
-
-[**KCF_py3**](https://github.com/LCorleone/KCF_py3) · ⭐ 50 · `Python`
-
-> Kernelized Correlation Filter tracker implemented in Python 3.
-
-[**Various-Loss-Function-in-Face-Recognition**](https://github.com/LCorleone/Various-Loss-Function-in-Face-Recognition) · ⭐ 26 · `Python`
-
-> Collection and comparison of loss functions used in face recognition models.
-
-[**Face-Antispoofing**](https://github.com/LCorleone/Face-Antispoofing) · ⭐ 19 · `Python`
-
-> Face anti-spoofing methods to detect presentation attacks.
-
-[**keras-Retinanet-Safe-Hat-Detection**](https://github.com/LCorleone/keras-Retinanet-Safe-Hat-Detection) · ⭐ 8 · `Python`
-
-> Safety helmet detection using Keras RetinaNet.
+> OpenRouter's open‑source alternative. Multi-model / Multi-API-format / Multi-tenant LLM API aggregation platform.
+> Supports OpenAI, Azure, Anthropic Claude, Google Gemini, DeepSeek, and more — unified API for key management & redistribution.
 
 ---
 
