@@ -21,22 +21,16 @@ July Lu (@LCorleone)
 
 ### 🛠️ Tech Stack
 
-**AI / ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Tools**
 
+![Pi](https://img.shields.io/badge/Pi-000000?style=for-the-badge&logo=ghost&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -44,12 +38,20 @@ July Lu (@LCorleone)
 
 ---
 
-### ⭐ Featured Project
+### ⭐ Featured Projects
 
 [**one-api**](https://github.com/LCorleone/one-api) · `Go`
 
 > OpenRouter's open‑source alternative. Multi-model / Multi-API-format / Multi-tenant LLM API aggregation platform.
 > Supports OpenAI, Azure, Anthropic Claude, Google Gemini, DeepSeek, and more — unified API for key management & redistribution.
+
+[**pi-english-polisher**](https://github.com/LCorleone/pi-english-polisher) · `TypeScript`
+
+> English writing polisher extension built for Pi coding agent.
+
+[**pi-emote**](https://github.com/cgxeiji/pi-emote) · `TypeScript`
+
+> Emote extension for Pi coding agent.
 
 ---
 
