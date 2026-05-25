@@ -11,7 +11,7 @@
 ```text
 July Lu (@LCorleone)
 ───────────────────────────────────────────────
-▸ AI Developer focused on CV, ML & Face Recognition
+▸ AI Developer
 ▸ Building tools with Python, TypeScript, C++
 ▸ Currently exploring LLM tooling & A-Share market data pipelines
 ▸ "No Victory No Survive"
