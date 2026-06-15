@@ -53,6 +53,10 @@ July Lu (@LCorleone)
 
 > English writing polisher extension built for Pi coding agent.
 
+[**poker**](https://github.com/LCorleone/poker) · `TypeScript`
+
+> Texas Hold'em trainer (React 19 + Vite) with LLM AI opponents, GTO strategy guidance, and hand quizzes.
+
 ---
 
 ### 📊 GitHub Stats
