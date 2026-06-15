@@ -41,8 +41,7 @@ July Lu (@LCorleone)
 ### ⭐ Featured Projects
 [**pi-desktop**](https://github.com/LCorleone/pi-desktop) · `TypeScript`
 
-> Windows desktop for Pi coding agent.
-
+> A native desktop shell for the Pi Coding Agent CLI (`pi --mode rpc`) — multi-workspace project management, session-first chat with streaming & tool calls, a composer slash-palette, and a model/provider picker with auth diagnostics.
 
 [**one-api**](https://github.com/LCorleone/one-api) · `Go`
 
@@ -51,11 +50,11 @@ July Lu (@LCorleone)
 
 [**pi-english-polisher**](https://github.com/LCorleone/pi-english-polisher) · `TypeScript`
 
-> English writing polisher extension built for Pi coding agent.
+> A Pi extension that polishes your English before it hits the LLM. Prefix input with `>` and it rewrites your draft into natural, grammatically correct English — with a before/after preview to accept, edit, or cancel.
 
 [**poker**](https://github.com/LCorleone/poker) · `TypeScript`
 
-> Texas Hold'em trainer (React 19 + Vite) with LLM AI opponents, GTO strategy guidance, and hand quizzes.
+> Texas Hold'em trainer (React 19 + Vite) — LLM-powered AI opponents that reason through their bets, real-time GTO strategy advice, 5 distinct opponent styles, tournament mode, and hand-quiz scenarios.
 
 ---
 
