@@ -42,6 +42,7 @@ July Lu (@LCorleone)
 [**pi-desktop**](https://github.com/LCorleone/pi-desktop) · `TypeScript`
 
 > A native desktop shell for the Pi Coding Agent CLI (`pi --mode rpc`) — multi-workspace project management, session-first chat with streaming & tool calls, a composer slash-palette, and a model/provider picker with auth diagnostics.
+> *Personal fork of [`gustavonline/pi-desktop`](https://github.com/gustavonline/pi-desktop) with my own build/release pipeline.*
 
 [**one-api**](https://github.com/LCorleone/one-api) · `Go`
 
