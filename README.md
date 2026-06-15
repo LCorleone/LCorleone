@@ -39,6 +39,10 @@ July Lu (@LCorleone)
 ---
 
 ### ⭐ Featured Projects
+[**pi-desktop**](https://github.com/LCorleone/pi-desktop) · `TypeScript`
+
+> Windows desktop for Pi coding agent.
+
 
 [**one-api**](https://github.com/LCorleone/one-api) · `Go`
 
