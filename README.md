@@ -49,6 +49,10 @@ July Lu (@LCorleone)
 > OpenRouter's open‑source alternative. Multi-model / Multi-API-format / Multi-tenant LLM API aggregation platform.
 > Supports OpenAI, Azure, Anthropic Claude, Google Gemini, DeepSeek, and more — unified API for key management & redistribution.
 
+[**pi-extensions**](https://github.com/LCorleone/pi-extensions) · `TypeScript`
+
+> A bundle of extensions for the Pi coding agent — **token-usage** (`/token` command with per-model breakdown & 30-day usage chart) and **pi-emote** (animated pixel-art emote widget with a redesigned live HUD, forked from `cgxeiji/pi-emote`).
+
 [**pi-english-polisher**](https://github.com/LCorleone/pi-english-polisher) · `TypeScript`
 
 > A Pi extension that polishes your English before it hits the LLM. Prefix input with `>` and it rewrites your draft into natural, grammatically correct English — with a before/after preview to accept, edit, or cancel.
