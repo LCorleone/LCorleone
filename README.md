@@ -70,6 +70,14 @@ July Lu (@LCorleone)
   <img src="https://streak-stats.demolab.com/?user=LCorleone&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" height="150" width="400"/>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-pulse-topaz.vercel.app/u/LCorleone?theme=dracula">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-pulse-topaz.vercel.app/u/LCorleone?theme=paper">
+    <img alt="GitHub Pulse" src="https://github-pulse-topaz.vercel.app/u/LCorleone?theme=dracula">
+  </picture>
+</p>
+
 ---
 
 <picture>
