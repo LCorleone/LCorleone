@@ -1,6 +1,12 @@
 <div align="center">
 
-[![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=F8F8F2&center=true&vCenter=true&width=600&lines=July+Lu;AI+Developer;No+Victory+No+Survive)](https://git.io/typing-svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=F8F8F2&center=true&vCenter=true&width=600&lines=July+Lu;AI+Developer;No+Victory+No+Survive">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=282A36&center=true&vCenter=true&width=600&lines=July+Lu;AI+Developer;No+Victory+No+Survive">
+  <img alt="typing" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=F8F8F2&center=true&vCenter=true&width=600&lines=July+Lu;AI+Developer;No+Victory+No+Survive">
+</picture>
 
 </div>
 
@@ -27,10 +33,11 @@ July Lu (@LCorleone)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 
 **Tools**
 
-![Pi](https://img.shields.io/badge/Pi-000000?style=for-the-badge&logo=ghost&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
