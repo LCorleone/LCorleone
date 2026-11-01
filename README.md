@@ -39,16 +39,8 @@
 <br />
 
 <!-- ===================================================================== -->
-<!-- 04 // GITHUB PULSE & CONTRIBUTION TELEMETRY                           -->
+<!-- 04 // CONTRIBUTION SNAKE                                              -->
 <!-- ===================================================================== -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-pulse-topaz.vercel.app/u/LCorleone?theme=dracula" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-pulse-topaz.vercel.app/u/LCorleone?theme=paper" />
-  <img alt="GitHub Pulse" src="https://github-pulse-topaz.vercel.app/u/LCorleone?theme=dracula" />
-</picture>
-
-<br /><br />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LCorleone/LCorleone/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LCorleone/LCorleone/output/github-snake.svg" />
