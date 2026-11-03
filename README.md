@@ -23,7 +23,18 @@
 <br /><br />
 
 <!-- ===================================================================== -->
-<!-- 03 // DIRECT REPOSITORY QUICK-LINKS                                   -->
+<!-- 03 // SYSTEM VITALS · LIVE GITHUB TELEMETRY (DARK / LIGHT ADAPTIVE)   -->
+<!-- ===================================================================== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg" />
+  <img alt="System Vitals — live GitHub telemetry: public repos, total stars, followers, commits in the last 12 months, contributed repos, last push and a 12-month contribution pulse" src="./assets/stats-dark.svg" width="100%" />
+</picture>
+
+<br /><br />
+
+<!-- ===================================================================== -->
+<!-- 04 // DIRECT REPOSITORY QUICK-LINKS                                   -->
 <!-- ===================================================================== -->
 <p align="center">
   <a href="https://github.com/LCorleone/pi-desktop"><b>pi-desktop</b></a> ·
@@ -39,7 +50,7 @@
 <br />
 
 <!-- ===================================================================== -->
-<!-- 04 // CONTRIBUTION SNAKE                                              -->
+<!-- 05 // CONTRIBUTION SNAKE                                              -->
 <!-- ===================================================================== -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LCorleone/LCorleone/output/github-snake-dark.svg" />

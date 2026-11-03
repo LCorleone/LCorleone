@@ -1,0 +1,27 @@
+{
+  "login": "LCorleone",
+  "public_repos": 47,
+  "repo_total": 47,
+  "total_stars": 218,
+  "followers": 63,
+  "commits_12m": 1284,
+  "contributed_to": 9,
+  "last_push_at": "2026-10-30T09:42:00Z",
+  "last_push_repo": "pi-desktop",
+  "window_label": "NOV 2025 \u2013 OCT 2026",
+  "rendered_at": "2026-11-03T04:17:00Z",
+  "months": [
+    { "label": "NOV", "count": 42 },
+    { "label": "DEC", "count": 18 },
+    { "label": "JAN", "count": 65 },
+    { "label": "FEB", "count": 121 },
+    { "label": "MAR", "count": 88 },
+    { "label": "APR", "count": 154 },
+    { "label": "MAY", "count": 96 },
+    { "label": "JUN", "count": 133 },
+    { "label": "JUL", "count": 187 },
+    { "label": "AUG", "count": 164 },
+    { "label": "SEP", "count": 210 },
+    { "label": "OCT", "count": 6 }
+  ]
+}
